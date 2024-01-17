@@ -1,0 +1,4 @@
+   if (computerHand.length === 0) {
+        console.log("Поздравляем! Вы выиграли!");
+        break;
+      }
